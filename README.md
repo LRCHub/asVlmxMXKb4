@@ -1,45 +1,33 @@
-# Dean Martin – Lay Some Happiness on Me
+# 嵐 – Happiness
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:07.67] Lay some happiness on me
-[00:10.96] So the brighter side you'll see
-[00:13.97] No more lonliness to me
-[00:17.17] Lay some happiness on me
-[00:29.17] 
-[00:20.13] Tell me I'm great and I'll be greater
-[00:23.40] Build me up and I'll fly
-[00:26.43] Love me now and I'll be glad later
-[00:29.40] And tell your troubles goodbye
-[00:44.40] 
-[00:32.32] Lay some happiness on me
-[00:35.63] So the brighter side you'll see
-[00:38.84] No more lonliness to me
-[00:41.84] Well, lay some happiness on me
-[00:56.84] 
-[00:51.11] Spill that cup of trouble and sorrow
-[00:54.46] Sooner, the better for you
-[00:57.48] Fill it up with a happy tomorrow
-[01:00.66] We got some living to do
-[01:12.66] 
-[01:03.99] Lay some happiness on me
-[01:06.97] So the brighter side you'll see
-[01:10.15] No more lonliness to me
-[01:12.89] Well, lay some happiness on me
-[01:27.89] 
-[01:22.34] Cover me up and I'll squeeze tighter
-[01:25.82] Honey let's kiss me, do
-[01:28.62] That good good loving makes a bad bad fighter
-[01:31.88] And I'm not picking on you
-[01:44.88] 
-[01:35.07] Lay some happiness on me
-[01:38.14] So the brighter side you'll see
-[01:41.46] No more lonliness to me
-[01:44.35] Well, lay some happiness on me
-[01:59.35] 
-[01:47.34] Lay some happiness on me
-[01:50.60] So the brighter side you'll see
-[01:53.66] No more lonliness to me
-[01:56.81] Well, lay some happiness on me
+```
+Yeah yeah yeah…
+向かい風の中で 嘆いてるよりも
+上手く行く事を想像すれば
+いつの日か変わる時がくる
+夢中で生きてたら 何気ないことで
+愛が傷ついて ためらいながら
+何度も立ち上がるよ
+思い出の後先を 考えたら 寂しすぎるね
+騒がしい未来が向こうで きっと待ってるから
+走り出せ 走り出せ 明日を迎えに行こう
+君だけの音を聞かせてよ 全部感じてるよ
+止めないで 止めないで 今を動かす気持ち
+どんなに小さなつぼみでも 一つだけのHappiness
+涙の気持ちさえ 言葉に出来ない
+幸せの虹は 何色なんて
+気にしなくていいから
+答えを見つけようと 思い出また積み重ねてる
+ここから新しい場所へ 何も恐れないで
+遠くまで 遠くまで どこまでも続く道
+君だけの声を聞かせてよ ずっとそばにいるよ
+止めないで 止めないで ずっと信じる気持ち
+今は名もないつぼみだけど 一つだけのHappiness
+走り出せ 走り出せ 明日を迎えに行こう
+君だけの音を聞かせてよ 全部感じてるよ
+止めないで 止めないで 今を動かす気持ち
+どんなに小さなつぼみでも 一つだけのHappiness
+Yeah yeah yeah…
 ```
