@@ -1,33 +1,18 @@
-# 嵐 – Happiness
+# Madeleine Peyroux – Homeless Happiness
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Yeah yeah yeah…
-向かい風の中で 嘆いてるよりも
-上手く行く事を想像すれば
-いつの日か変わる時がくる
-夢中で生きてたら 何気ないことで
-愛が傷ついて ためらいながら
-何度も立ち上がるよ
-思い出の後先を 考えたら 寂しすぎるね
-騒がしい未来が向こうで きっと待ってるから
-走り出せ 走り出せ 明日を迎えに行こう
-君だけの音を聞かせてよ 全部感じてるよ
-止めないで 止めないで 今を動かす気持ち
-どんなに小さなつぼみでも 一つだけのHappiness
-涙の気持ちさえ 言葉に出来ない
-幸せの虹は 何色なんて
-気にしなくていいから
-答えを見つけようと 思い出また積み重ねてる
-ここから新しい場所へ 何も恐れないで
-遠くまで 遠くまで どこまでも続く道
-君だけの声を聞かせてよ ずっとそばにいるよ
-止めないで 止めないで ずっと信じる気持ち
-今は名もないつぼみだけど 一つだけのHappiness
-走り出せ 走り出せ 明日を迎えに行こう
-君だけの音を聞かせてよ 全部感じてるよ
-止めないで 止めないで 今を動かす気持ち
-どんなに小さなつぼみでも 一つだけのHappiness
-Yeah yeah yeah…
+```lrc
+[00:07.98] I sit here content my thoughts and my feelings
+[00:14.83] Remembering who I used to be
+[00:21.86] The life I have now is much more appealing
+[00:29.15] No hurries no worries for me
+[00:43.15] 
+[00:42.59] A bench by the shore a coat for my pillow
+[00:49.62] A future with no guarantee
+[00:57.76] The world was a rat race and I had my fill oh
+[01:05.57] No hurries no worries for me
+[01:19.57] 
+[01:12.96] Homeless Happiness
+[01:19.86] My castle
 ```
